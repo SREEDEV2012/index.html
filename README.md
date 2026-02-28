@@ -1,5 +1,4 @@
 # index.html
-live school marks status
 <!DOCTYPE html>
 <html lang="en">
 <head>
